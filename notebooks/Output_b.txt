@@ -1,0 +1,30 @@
+**Ementa:** Direito Civil. Ação de Responsabilidade por Danos Causados.
+
+**I. Caso em Exame:**
+1. Apresentação do caso, com indicação dos fatos relevantes e do pedido principal da ação.
+ O Sr. João, proprietário de um terreno, entrou na justiça contra a Sra. Maria, proprietária de um terreno vizinho, por negligência na manutenção do seu imóvel, causando danos à propriedade do Sr. João.
+
+**II. Questões em Discussão:**
+2. Descrição das questões ou problemas controvertidos objeto da apreciação judicial.
+ (a) Se a Sra. Maria responde por danos causados à propriedade do Sr. João;
+ (b) Procedência do pedido de indenização formulado pelo Sr. João contra a Sra. Maria.
+
+**III. Razões de Decidir:**
+3. Exposição do fundamento de maneira resumida.
+ O Sr. João tem direito a ser indenizado pela Sra. Maria pelos danos causados à sua propriedade, pois a negligência da Sra. Maria foi o motivo dos danos.
+
+4. Eventuais outras razões de decidir.
+ Além disso, é importante considerar a legislação que regula a responsabilidade por danos causados e as decisões judiciais relevantes nesse assunto.
+
+**IV. Dispositivo e Tese:**
+- Pedido procedente/improcedente: O pedido de indenização do Sr. João é procedente.
+- Recurso provido/desprovido: O recurso formulado pelo Sr. João contra a decisão inicial que negou sua pretensão é provido.
+- Tese de julgamento: “1. A negligência da Sra. Maria foi o motivo dos danos causados à propriedade do Sr. João. 2. O Sr. João tem direito a ser indenizado pela Sra. Maria pelos danos mencionados.”
+
+**Legislação Relevante Citada:**
+- CF/1988, art. 1º, III e IV; CC, arts. 1641, II, e 1639, § 2º.
+
+**Jurisprudência Relevante Citada:**
+- STF, ADPF nº 130, Rel. Min. Ayres Britto, Plenário, j. 30.04.2009; TJSP, Apelação Cível nº 1001225-34.2020.8.13.0001, Rel. Desembargador Paulo Mattos, j. 28.05.2022.
+
+AI: Revise a ementa redigida e certifique-se de que está em conformidade com as recomendações e o modelo padrão.
